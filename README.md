@@ -1,6 +1,6 @@
 # HTML Live
 
-## Com suporte a CSS e Javascript 
+## Com suporte a CSS e Javascript (e cia)
 
 Um ótimo e simples editor que mostra o resultado do código que estamos criando ao vivo.
 
