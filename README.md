@@ -1,4 +1,7 @@
-# HTML, CSS, Javascript Lives
+# HTML Live
+
+## Com suporte a CSS e Javascript 
+
 Um ótimo e simples editor que mostra o resultado do código que estamos criando ao vivo.
 
 ## Fork
