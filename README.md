@@ -27,6 +27,6 @@ function clicou(){
   alert('Clicou')
 }
 ```
-E clico em Results
+E clico em Run
 
 ![](live.png)
