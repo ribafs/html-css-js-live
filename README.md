@@ -2,7 +2,7 @@
 
 ## Com suporte a CSS e Javascript (e cia)
 
-Um ótimo e simples editor que mostra o resultado do código que estamos criando ao vivo.
+Um ótimo e simples editor que mostra o resultado do código que estamos criando ao vivo. Similar ao Codepen ou JSFiddle, mas que tanto pode ser usado no desktop ou na web.
 
 ## Fork
 Este é um fork do projeto
